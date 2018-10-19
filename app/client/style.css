@@ -1,0 +1,26 @@
+.topmenu {
+  border: none;
+  box-shadow: none;
+}
+
+.middlepicture {
+  background: url(http://slvsh_prod.s3.amazonaws.com/games/poster_imgs/000/000/827/original/scg18_MonNight-tom3.jpg?1521640546) no-repeat center center;
+  background-size: cover;
+  color: white;
+  padding: 200px;
+}
+
+.ui.text.footer.menu {
+  margin-top: 100px;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.videos img{
+  padding: 10px;
+}
